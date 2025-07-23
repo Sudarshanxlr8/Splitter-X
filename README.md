@@ -4,7 +4,6 @@
           
 # SplitterX
 
-![SplitterX Logo](assets/logo.png) *(Replace with actual logo if available)*
 
 **SplitterX** is an amazing web application designed to simplify bill splitting among friends, family, or colleagues. It allows users to create or join splitting sessions, add transactions, calculate balances, and minimize settlements in real-time using Firebase for data storage. Say goodbye to complicated calculations and hello to hassle-free bill sharing! 💸
 
